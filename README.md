@@ -17,3 +17,4 @@ Solutions for LeetCode Problems
 83. Remove Duplicates from Sorted List
 100. Same Tree
 112. Path Sum
+136. Single Number
