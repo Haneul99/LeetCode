@@ -17,4 +17,6 @@ Solutions for LeetCode Problems
 83. Remove Duplicates from Sorted List
 100. Same Tree
 112. Path Sum
+118. Pascal's Triangle
+119. Pascal's Triangle II
 136. Single Number
