@@ -20,6 +20,8 @@ Solutions for LeetCode Problems
 112. Path Sum
 118. Pascal's Triangle
 119. Pascal's Triangle II
+121. Best Time to Buy and Sell Stock
 136. Single Number
 155. Min Stack
 168. Excel Sheet Column Title
+202. Happy Number
