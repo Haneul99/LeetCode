@@ -28,3 +28,4 @@ Solutions for LeetCode Problems
 171. Excel Sheet Column Number
 198. House Robber
 202. Happy Number
+231. Power of Two
