@@ -28,4 +28,5 @@ Solutions for LeetCode Problems
 171. Excel Sheet Column Number
 198. House Robber
 202. Happy Number
+205. Isomorphic Strings
 231. Power of Two
